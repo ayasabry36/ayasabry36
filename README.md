@@ -71,14 +71,19 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayasabry36&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayasabry36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36&"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36&"  />
+  <img src="https://streak-stats.demolab.com?user=ayasabry36&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayasabry36&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
