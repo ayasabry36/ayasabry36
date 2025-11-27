@@ -66,11 +66,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/nLsVnTjw/5b85277d613cca7d1e03c2380b552f3c.jpg"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayasabry36&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
