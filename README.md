@@ -1,10 +1,6 @@
 <h2 align="left">Hi ✨! I'm Aya</h2>
 
-###
-
 <p align="center">A Machine Learning Engineer from Egypt ✨</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
@@ -42,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
 </div>
 
-###
-
 <div align="center">
   <a href="mailto:ayaasaprey123@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
@@ -62,20 +56,14 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayasabry36&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36" />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/ayasabry36/ayasabry36/output/snake.svg" alt="Snake animation" />
 
-###
+![Snake](https://raw.githubusercontent.com/ayasabry36/ayasabry36/output/snake.svg)
