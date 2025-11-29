@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A Machine Learning Engineer from Egypt .✨</p>
+<p align="center">A Machine Learning Engineer from Egypt ✨</p>
 
 ###
 
