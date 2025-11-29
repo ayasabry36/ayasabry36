@@ -1,4 +1,4 @@
-<h2 align="left">Hello ✨! It's Aya</h2>
+<h2 align="center">Hello ✨! It's Aya</h2>
 
 ###
 
