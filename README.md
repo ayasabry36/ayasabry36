@@ -1,8 +1,8 @@
-<h2 align="left">Hi ✨! I'm Aya</h2>
+<h2 align="left">Hello ✨! It's Aya</h2>
 
 ###
 
-<p align="center">A Machine Learning Engineer from Egypt ✨</p>
+<p align="center">A Machine Learning Engineer from Egypt .✨</p>
 
 ###
 
