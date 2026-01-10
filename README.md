@@ -66,9 +66,6 @@
 
 ![Snake](https://raw.githubusercontent.com/ayasabry36/ayasabry36/output/snake.svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayasabry36&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
-</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36" />
