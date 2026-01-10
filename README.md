@@ -68,4 +68,6 @@
 
 ###
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36" alt="Visitor Badge" />
+</div>
