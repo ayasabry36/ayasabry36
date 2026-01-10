@@ -66,7 +66,6 @@
 
 ![Snake](https://raw.githubusercontent.com/ayasabry36/ayasabry36/output/snake.svg)
 
+###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36" />
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayasabry36.ayasabry36)
